@@ -1,13 +1,9 @@
 {
-  "version": "5.12.0",
-  "sha256": "0c157ff5e4abde4779e9c037bed6d40e5d4f26cb4cfd84752d14c3e5e430e575",
-  "signature": "PGC89kBXfOC2oFULjxRufiKpy2Rr71vGR7Sha+JpL8phLFJ1YF6N3eJ4BcWPJw0gm/5uy7GDq2+T6nvLaKhCTA==",
+  "version": "5.15.1",
+  "sha256": "5d10c38019cdb9e4012a6544aded71fafd1e170a8f1ff7f891cb49ac682254e5",
+  "signature": "lydyc2LuCANuFPx7D3MIMzGrbq1L7YEYYuW40liDhYDDM5TX39SPX2mMj9XP3UzoLco2aP97DQgkpU0BoJRuJA==",
   "notes": [
-    "Settings reorganised into compact sections",
-    "All Full Setup options ticked by default",
-    "Default payment modes moved to Settings; tick-only on main screen",
-    "Only one POS user by default (duplicate fixed)",
-    "Back Office login read from Slack thread"
+    "Start Onboarding popup opens automatically when a client is assigned (Smart Auto)"
   ],
-  "published": "2026-10-28T16:23:54.396Z"
+  "published": "2026-10-29T05:35:29.326Z"
 }
