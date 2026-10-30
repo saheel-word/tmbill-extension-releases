@@ -1,9 +1,9 @@
 {
-  "version": "5.15.1",
-  "sha256": "5d10c38019cdb9e4012a6544aded71fafd1e170a8f1ff7f891cb49ac682254e5",
-  "signature": "lydyc2LuCANuFPx7D3MIMzGrbq1L7YEYYuW40liDhYDDM5TX39SPX2mMj9XP3UzoLco2aP97DQgkpU0BoJRuJA==",
+  "version": "5.17.1",
+  "sha256": "ea9e42ac4010a78aadf0bda7ed0115aa92525aeb57a72e14ee9bf0ea6cf10836",
+  "signature": "pTqfhcS6Eq4n4n4WHBWjycsXqWqTyJ96HYwevVK9/8UZLqT4lRS7pFR8kxWXkiPdVtishnkBTUlw2ywxatDhFg==",
   "notes": [
-    "Start Onboarding popup opens automatically when a client is assigned (Smart Auto)"
+    "Discounts: Percentage and Flat can both be on, each with its own comma-separated values (default 0)"
   ],
-  "published": "2026-10-29T05:35:29.326Z"
+  "published": "2026-10-30T05:06:10.764Z"
 }
