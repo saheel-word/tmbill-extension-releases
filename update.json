@@ -1,8 +1,10 @@
 {
-  "version": "5.19.2",
-  "sha256": "7013a560602950e45a628bac1c7fb21128b9ccb28d418c5d5d9eb6018c04e673",
-  "signature": "BDM1uh5rwtyU3Xp1LKL8UPpIxoScNT7OOJjiMGI2iWc7xkeJxa+DHLKN6dCTPYHJecFI8AOmd4CwTnwq2NnHJA==",
+  "version": "5.20.0",
+  "sha256": "f53634d7dab536e64e1e557c923c437a8b8b1a582684591f55ef47320372866c",
+  "signature": "mcMxXI2imYrwRb34IxrT5eDnV6U9e4N3oQATK0t/GMR0hEjThQ1Pynohf0DkvuPalXQkuCL2vgQag+v3QmaiQg==",
   "notes": [
+    "New sidebar layout (wide panels) + compact top bar (narrow); switch in Settings or with the Layout button",
+    "Collapsible sidebar with sections and green active marker",
     "Back Office login now read correctly from Slack",
     "Only 1 POS user by default",
     "Checklist merged into Full Setup with dropdowns",
@@ -11,15 +13,13 @@
     "Compact Settings; UI fits any width",
     "New look, loader and click animations",
     "Live status card with timer",
-    "Loader while fetching Slack link",
     "Start Onboarding opens on client assign",
     "Red pulsing update tag; locked source",
-    "Smaller Table QR button",
     "Discounts: Percentage / Flat, comma values",
     "Remembers your corrections",
-    "Auto-shares anonymous learning data (now live)",
+    "Auto-shares anonymous learning data",
     "Client card, Ctrl+Enter, confetti",
     "Aligned steps, Presets, Expand all"
   ],
-  "published": "2026-10-31T13:44:33.174Z"
+  "published": "2026-10-31T16:17:46.387Z"
 }
