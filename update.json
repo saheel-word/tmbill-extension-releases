@@ -1,7 +1,7 @@
 {
-  "version": "5.19.1",
-  "sha256": "8b516b52660dbcb202fa911ec62310080a7864ce82058a37b76ed50661529965",
-  "signature": "8cCZ3ThCdbmjE6c6DjtswUDSFgwY61dM7qrLh4dnr7cr4tEuhqd+wzEAMfLdrm/+obyjeRfUN122n6pqa39hcQ==",
+  "version": "5.19.2",
+  "sha256": "7013a560602950e45a628bac1c7fb21128b9ccb28d418c5d5d9eb6018c04e673",
+  "signature": "BDM1uh5rwtyU3Xp1LKL8UPpIxoScNT7OOJjiMGI2iWc7xkeJxa+DHLKN6dCTPYHJecFI8AOmd4CwTnwq2NnHJA==",
   "notes": [
     "Back Office login now read correctly from Slack",
     "Only 1 POS user by default",
@@ -17,9 +17,9 @@
     "Smaller Table QR button",
     "Discounts: Percentage / Flat, comma values",
     "Remembers your corrections",
-    "Auto-shares anonymous learning data",
+    "Auto-shares anonymous learning data (now live)",
     "Client card, Ctrl+Enter, confetti",
     "Aligned steps, Presets, Expand all"
   ],
-  "published": "2026-10-31T05:27:57.451Z"
+  "published": "2026-10-31T13:44:33.174Z"
 }
