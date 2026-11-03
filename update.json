@@ -1,20 +1,20 @@
 {
-  "version": "5.21.0",
-  "sha256": "3ecb4b147b86224b03b164da6493a1de27e5628b59a9676df0a88cd9b8a1ef6b",
-  "signature": "hGFCeyYwwSGcJjk1oNUd14lF08DAXQMiQ9VhbWh681GqEgDB9UynMUAdH3DVsezcLejQKPXFM0WVBtTNIhYqJg==",
+  "version": "5.23.0",
+  "sha256": "f1d317487bc8d7aecdb482c4260a81cb32f9cf8c35a418cbc2e3f0579e9458b4",
+  "signature": "zPx+nNXl99D4V7rPLOKfaV3VCEdlH4DLflFQeMcksxzMVkHLtjV5PRGd07o6EJIwfpQVj8CC001CWixJUM9VeQ==",
   "notes": [
-    "Modifier Suite merged: modifier groups, option groups, Excel bulk import (same Chrome login)",
-    "Full view button opens the big view in a new tab",
-    "Current Back Office name shown at top-left of the sidebar",
+    "Modifier Suite status bar: live status, progress bar, timer, ok/failed counts, Activity log drawer",
+    "Table QR added under Menu Management in the sidebar",
+    "Menu Management dropdown: Modifier Groups, Option Groups, Table QR",
+    "Modifier and Option Group pages reorganised with clear steps and rules",
+    "Modifier Suite merged with Excel bulk import; Full view in a new tab",
+    "Current Back Office name at top-left of the sidebar",
     "Sidebar layout + compact top bar (Auto / Sidebar / Compact)",
     "Aligned steps, Presets, Expand all",
     "Client card, Ctrl+Enter, confetti",
     "Auto-shares anonymous learning data",
     "Remembers your corrections",
-    "Discounts: Percentage / Flat, comma values",
-    "Back Office login read correctly from Slack; only 1 POS user by default",
-    "Checklist merged into Full Setup; all steps ticked on open",
-    "New look, loader and click animations"
+    "Discounts: Percentage / Flat, comma values"
   ],
-  "published": "2026-10-31T16:30:41.521Z"
+  "published": "2026-11-03T08:42:38.996Z"
 }
