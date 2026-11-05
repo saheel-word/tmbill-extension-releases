@@ -1,20 +1,13 @@
 {
-  "version": "5.23.0",
-  "sha256": "f1d317487bc8d7aecdb482c4260a81cb32f9cf8c35a418cbc2e3f0579e9458b4",
-  "signature": "zPx+nNXl99D4V7rPLOKfaV3VCEdlH4DLflFQeMcksxzMVkHLtjV5PRGd07o6EJIwfpQVj8CC001CWixJUM9VeQ==",
+  "version": "5.23.1",
+  "sha256": "455806fb3b7703faf4dd57eba1c83ff0e3b18eaa74522b77e15ad71ac9b8c079",
+  "signature": "Au0/3w0sAUhSdEAME8n9GXou528rYaa+/g8HMBe9a3Fj0Y88/D5d1l9ir0dnsNeYp5llIZKNqEelgeEfH9fPcg==",
   "notes": [
-    "Modifier Suite status bar: live status, progress bar, timer, ok/failed counts, Activity log drawer",
+    "Fixed: unnecessary gap below Table QR in the Menu Management dropdown",
+    "Activity log redesigned: readable rows with time, source tag and status dot instead of a raw terminal box",
+    "Modifier Suite status bar: live status, progress, timer, ok/failed counts",
     "Table QR added under Menu Management in the sidebar",
-    "Menu Management dropdown: Modifier Groups, Option Groups, Table QR",
-    "Modifier and Option Group pages reorganised with clear steps and rules",
-    "Modifier Suite merged with Excel bulk import; Full view in a new tab",
-    "Current Back Office name at top-left of the sidebar",
-    "Sidebar layout + compact top bar (Auto / Sidebar / Compact)",
-    "Aligned steps, Presets, Expand all",
-    "Client card, Ctrl+Enter, confetti",
-    "Auto-shares anonymous learning data",
-    "Remembers your corrections",
-    "Discounts: Percentage / Flat, comma values"
+    "Sidebar: Onboarding + Menu Management (Modifier Groups, Option Groups)"
   ],
-  "published": "2026-11-03T08:42:38.996Z"
+  "published": "2026-11-05T09:57:11.062Z"
 }
