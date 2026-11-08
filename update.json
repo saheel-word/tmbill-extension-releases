@@ -1,13 +1,13 @@
 {
-  "version": "5.23.1",
-  "sha256": "455806fb3b7703faf4dd57eba1c83ff0e3b18eaa74522b77e15ad71ac9b8c079",
-  "signature": "Au0/3w0sAUhSdEAME8n9GXou528rYaa+/g8HMBe9a3Fj0Y88/D5d1l9ir0dnsNeYp5llIZKNqEelgeEfH9fPcg==",
+  "version": "5.25.0",
+  "sha256": "f4b3bdbe04497a211af32ae55d4e3cb0395e563849801facf2e251608ebb30a7",
+  "signature": "co93G9qEVFlQtKpXtFmYM1tbPaA0E6p4meLCUgr2g/OHB6AZMd2lbWpfFoIZJYszmL/dpDEFYbpGbGnn65Nj6w==",
   "notes": [
-    "Fixed: unnecessary gap below Table QR in the Menu Management dropdown",
-    "Activity log redesigned: readable rows with time, source tag and status dot instead of a raw terminal box",
-    "Modifier Suite status bar: live status, progress, timer, ok/failed counts",
-    "Table QR added under Menu Management in the sidebar",
-    "Sidebar: Onboarding + Menu Management (Modifier Groups, Option Groups)"
+    "Step 1 of the Modifier/Option Group import now includes outlet and menu selection (no separate box above).",
+    "Bulk-import results now show clear colour-coded pass/fail tiles instead of a plain list.",
+    "Modifier/Option rules are sorted and highlighted by importance (blocking vs informational vs timing).",
+    "Table QR now lets you pick an outlet first when opened from Menu Management, with sorted departments and grouped QR types.",
+    "Extension updates now finish completely in the background - closing or switching the tab mid-update no longer stops or corrupts it."
   ],
-  "published": "2026-11-05T09:57:11.062Z"
+  "published": "2026-11-08T06:55:07.820Z"
 }
