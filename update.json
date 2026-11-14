@@ -1,13 +1,12 @@
 {
   "version": "5.26.0",
-  "sha256": "e7cbf688a7d72e94df84265651e64b84ab30f7dd2d1197647022019d1272c4a4",
-  "signature": "Afjx5NOIXOgFzu1++XMuGM4asN4LO384Xk8DzEBNb+jN+0Bx8yNcVGnaoRmK+DnQlelJhRkQdxcD+OKMpnQGew==",
+  "sha256": "d23231712e6d1fca4dd4dd189d3dfb6d186ed2a30a10f18ef68db7a75d126ff1",
+  "signature": "gy+jx1XCyQ3NWOG34jCuopQwKtopSlaoocOHVs/6e1lCSqB7DLHhsWPGjEBUbU4v4Sf6sQnvUIgczNjOtUe84g==",
   "notes": [
     "Removed the Basic/Full/Menu-only Presets - Expand/Collapse all stays as one button.",
     "New sidebar section 'Add Tables' - pick an outlet and add POS tables without touching onboarding.",
     "New sidebar section 'Add Discount' - pick an outlet, with separate Modifiable and Non-modifiable discount groups.",
     "Create Designation / Create Users moved out of onboarding into their own 'Create User' sidebar section, with its own outlet picker.",
-    "Onboarding's Owner/Manager user creation now has its own on/off tick - rest of onboarding works exactly as before.",
-    "Signing key was regenerated this release - after updating to v5.26.0, auto-update works normally again."
+    "Onboarding's Owner/Manager user creation now has its own on/off tick - rest of onboarding works exactly as before."
   ]
 }
