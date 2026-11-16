@@ -1,12 +1,9 @@
 {
-  "version": "5.26.0",
-  "sha256": "d23231712e6d1fca4dd4dd189d3dfb6d186ed2a30a10f18ef68db7a75d126ff1",
-  "signature": "gy+jx1XCyQ3NWOG34jCuopQwKtopSlaoocOHVs/6e1lCSqB7DLHhsWPGjEBUbU4v4Sf6sQnvUIgczNjOtUe84g==",
+  "version": "5.27.0",
+  "sha256": "3d1555e8afe2aff155ca65384d10d7acdc8710878e7f56dd5d327520159129d6",
+  "signature": "f+HriIF5H/1Cr1zKZIAoNz5E6pdwbYojOyHTjOgcQB0c/gzGM0uwDf2iIUUFnb4hTQFxos8j1h2j3FDlKILcKg==",
   "notes": [
-    "Removed the Basic/Full/Menu-only Presets - Expand/Collapse all stays as one button.",
-    "New sidebar section 'Add Tables' - pick an outlet and add POS tables without touching onboarding.",
-    "New sidebar section 'Add Discount' - pick an outlet, with separate Modifiable and Non-modifiable discount groups.",
-    "Create Designation / Create Users moved out of onboarding into their own 'Create User' sidebar section, with its own outlet picker.",
-    "Onboarding's Owner/Manager user creation now has its own on/off tick - rest of onboarding works exactly as before."
+    "Theme retinted to match backoffice.tmbill.com's real look - teal-green accent, mint status pills, cooler page background.",
+    "Fixed: Captain-app users are now created with the correct type (12645) and userCategory (2), matching a real backoffice request - captured directly from a HAR export. KDS / OrderHub / OrderX / Self-order still use the safe default until their real values are captured too."
   ]
 }
