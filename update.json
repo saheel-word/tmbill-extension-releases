@@ -1,9 +1,8 @@
 {
-  "version": "5.27.0",
-  "sha256": "3d1555e8afe2aff155ca65384d10d7acdc8710878e7f56dd5d327520159129d6",
-  "signature": "f+HriIF5H/1Cr1zKZIAoNz5E6pdwbYojOyHTjOgcQB0c/gzGM0uwDf2iIUUFnb4hTQFxos8j1h2j3FDlKILcKg==",
+  "version": "5.27.1",
+  "sha256": "a9fec69c68ed3555878a56a5ebe35942b2eeb4c79156501c3974da0d32843674",
+  "signature": "iESM6TFluYB37RaZsy8LmKO8Wq7D8VYAhfGTag4bwBaHQ2/EviSTSd8BBDYkj88VvAnFiZglBrauljctmVctRw==",
   "notes": [
-    "Theme retinted to match backoffice.tmbill.com's real look - teal-green accent, mint status pills, cooler page background.",
-    "Fixed: Captain-app users are now created with the correct type (12645) and userCategory (2), matching a real backoffice request - captured directly from a HAR export. KDS / OrderHub / OrderX / Self-order still use the safe default until their real values are captured too."
+    "Fixed: Create User panel (and standalone panel in general) was failing extra-user creation with HTTP 422 'phone field is required' because no mobile number is collected when picking an existing outlet. Now falls back to a phone already on file for that outlet, or you can type one in the new optional Phone field."
   ]
 }
